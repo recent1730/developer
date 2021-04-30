@@ -1,0 +1,22 @@
+body
+{
+  background: url(https://images.unsplash.com/photo-1616243850909-f010afe8de3a?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDk5fEo5eXJQYUhYUlFZfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+.container
+{
+  background:black;
+  color:red;
+  font-size: 25px;
+}
+
+h1
+{
+  color:red;
+  text-align: center;
+
+}

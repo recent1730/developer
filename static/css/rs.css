@@ -1,0 +1,21 @@
+body
+{
+  background: black;
+}
+h1
+{
+  background: red;
+  color:blue;
+  text-align: center;
+}
+.container
+{
+  margin-top:200px;
+}
+.container table,tr
+{
+  background: white;
+  color:red;
+  border:2px solid blue;
+
+}
